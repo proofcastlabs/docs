@@ -1,4 +1,4 @@
-## TEE-VM
+# <img src="./images/Proofcast_Logo.png" width="50"> Tee-VM
 
 ### Overview
 

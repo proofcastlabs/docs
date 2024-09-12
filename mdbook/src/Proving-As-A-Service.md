@@ -1,4 +1,6 @@
-# Welcome to the Proofcast Documentation
+<!-- # <img src="Proofcast_Logo.png" width="50"> Welcome to the Proofcast Documentation -->
+
+![](./images/Proofcast-logo-transparent.jpg)
 
 Visit our [website](https://www.proofcast.xyz/). Stay updated with the latest news by following us on [X](https://www.x.com/proofcastlabs). Builders, developers, and curious minds are welcome to join our [Telegram group](https://t.me/proofcast_builder) to chat with the team.
 

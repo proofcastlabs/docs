@@ -1,6 +1,6 @@
-# Proofcast 
+<!-- # <img src="Proofcast_Logo.png" width="50"> Proofcast  -->
 
-![](./Proofcast-logo-cropped.jpg)
+![](./images/Proofcast-logo.jpg)
 
 Welcome to the Proofcast Documentation.
 

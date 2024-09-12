@@ -1,4 +1,4 @@
-# Event Attestator
+# <img src="./images/Proofcast_Logo.png" width="50"> Event Attestator
 
 ## Overview
 
@@ -48,7 +48,7 @@ the TEE contained into the device
 
 The system at a glance:
 
-![Event Attestator Architecture](./event-attestator-arch.png "Event Attestator Architecture")
+![Event Attestator Architecture](./images/event-attestator-arch.png "Event Attestator Architecture")
 
 - The JSONRPC api allows the end user to send commands to the device
 - These commands are then sent through the websocket channel to which the device

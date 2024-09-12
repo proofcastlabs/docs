@@ -1,4 +1,4 @@
-## Introduction
+## <img src="./images/Proofcast_Logo.png" width="35"> Introduction
 
 The low level nature of Trusted Execution Environments prompts the use of an abstraction layer in order to facilitate the interaction for the end user. This project aims to create this layer by creating a websocket connection to the host to whom the device is connected and will interpret all the commands sent by the host as low level calls.
 Through this application it is therefore possible to run a rust program inside an Android TEE using a websocket connection to communicate to the outside.
