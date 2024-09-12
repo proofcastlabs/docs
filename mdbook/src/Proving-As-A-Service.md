@@ -1,6 +1,6 @@
 <!-- # <img src="Proofcast_Logo.png" width="50"> Welcome to the Proofcast Documentation -->
 
-![](./images/Proofcast-logo-transparent.jpg)
+![](./images/Proofcast-logo-transparent-dark.png)
 
 Visit our [website](https://www.proofcast.xyz/). Stay updated with the latest news by following us on [X](https://www.x.com/proofcastlabs). Builders, developers, and curious minds are welcome to join our [Telegram group](https://t.me/proofcast_builder) to chat with the team.
 
@@ -35,7 +35,7 @@ However, many teams today face the challenge of building trusted hardware soluti
 
 ### **The future of TEEs: “proving-as-a-service”**
 
-![](./Proving-as-a-service.png)
+![](./images/Proving-as-a-service.png)
 
 Proofcast wants to become the “proving-as-a-service” standard for TEEs.
 
