@@ -1,4 +1,4 @@
-# <img src="./images/Proofcast_Logo.png" width="50"> Event Attestator
+# <img src="./images/Proofcast_Logo.png" width="40"> Event Attestator
 
 ## Overview
 
